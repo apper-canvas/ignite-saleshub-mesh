@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "position": "VP of Sales",
+    "status": "customer",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "lastContact": "2024-01-20T14:22:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "email": "m.chen@innovatetech.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "InnovateTech",
+    "position": "CTO",
+    "status": "qualified",
+    "createdAt": "2024-01-18T09:15:00Z",
+    "lastContact": "2024-01-19T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Jessica Rodriguez",
+    "email": "jessica@growthventures.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Growth Ventures",
+    "position": "Marketing Director",
+    "status": "lead",
+    "createdAt": "2024-01-20T11:20:00Z",
+    "lastContact": null
+  },
+  {
+    "id": "4",
+    "name": "David Kim",
+    "email": "david.kim@futurebusiness.net",
+    "phone": "+1 (555) 456-7890",
+    "company": "Future Business Corp",
+    "position": "CEO",
+    "status": "customer",
+    "createdAt": "2024-01-12T08:45:00Z",
+    "lastContact": "2024-01-21T10:30:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Amanda Williams",
+    "email": "amanda.w@scalestartup.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "ScaleStartup Inc",
+    "position": "Head of Operations",
+    "status": "qualified",
+    "createdAt": "2024-01-22T13:10:00Z",
+    "lastContact": "2024-01-23T09:20:00Z"
+  }
+]

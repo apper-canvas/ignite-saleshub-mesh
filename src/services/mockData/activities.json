@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "type": "call",
+    "contactId": "1",
+    "dealId": "1",
+    "description": "Discussed pricing structure and implementation timeline for enterprise license",
+    "date": "2024-01-23T14:30:00Z",
+    "duration": 45
+  },
+  {
+    "id": "2",
+    "type": "email",
+    "contactId": "2",
+    "dealId": "2",
+    "description": "Sent detailed proposal for cloud infrastructure setup with cost breakdown",
+    "date": "2024-01-23T10:15:00Z",
+    "duration": 15
+  },
+  {
+    "id": "3",
+    "type": "meeting",
+    "contactId": "4",
+    "dealId": "4",
+    "description": "Final contract review and signing ceremony for custom development project",
+    "date": "2024-01-22T16:00:00Z",
+    "duration": 90
+  },
+  {
+    "id": "4",
+    "type": "call",
+    "contactId": "3",
+    "dealId": "3",
+    "description": "Initial discovery call to understand marketing platform requirements",
+    "date": "2024-01-22T11:30:00Z",
+    "duration": 30
+  },
+  {
+    "id": "5",
+    "type": "note",
+    "contactId": "5",
+    "dealId": "5",
+    "description": "Research notes on company background and potential consulting needs",
+    "date": "2024-01-22T09:45:00Z",
+    "duration": 20
+  },
+  {
+    "id": "6",
+    "type": "email",
+    "contactId": "1",
+    "dealId": "6",
+    "description": "Follow-up email with integration documentation and API specifications",
+    "date": "2024-01-21T15:20:00Z",
+    "duration": 10
+  },
+  {
+    "id": "7",
+    "type": "meeting",
+    "contactId": "2",
+    "dealId": "2",
+    "description": "Technical requirements workshop with development team",
+    "date": "2024-01-20T14:00:00Z",
+    "duration": 120
+  },
+  {
+    "id": "8",
+    "type": "call",
+    "contactId": "5",
+    "dealId": "",
+    "description": "Introductory call to understand business challenges and opportunities",
+    "date": "2024-01-19T13:15:00Z",
+    "duration": 25
+  }
+]
